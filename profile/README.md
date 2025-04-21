@@ -6,7 +6,7 @@
         <td align="center"><a href="https://github.com/sangxxjin"><b>김상진</b></td>
         <td align="center"><a href="https://github.com/"><b>김누리</b></td>
         <td align="center"><a href="https://github.com/"><b>김나은</b></td>
-        <td align="center"><a href="https://github.com/"><b>강성욱</b></td>
+        <td align="center"><a href="https://github.com/KangBaekGwa"><b>강성욱</b></td>
         <td align="center"><a href="https://github.com/"><b>이상억</b></td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
 <!--         <img height="150px" width = "150px" src="https://img2.quasarzone.com/editor/2023/01/28/af8fee3ca27da73298ed93478eda5037.jpg" alt=""/><br /> -->
       </td>
       <td align="center">
-<!--         <img height="150px" width = "150px" src="https://img2.quasarzone.com/editor/2023/01/28/af8fee3ca27da73298ed93478eda5037.jpg" alt=""/><br /> -->
+        <img height="150px" width = "150px" src="https://github.com/user-attachments/assets/54b95527-dd0e-4bd0-bb3a-37be2a01a075" alt=""/><br />
       </td>
       <td align="center">
 <!--         <img height="150px" width = "150px" src="https://img2.quasarzone.com/editor/2023/01/28/af8fee3ca27da73298ed93478eda5037.jpg" alt=""/><br /> -->
