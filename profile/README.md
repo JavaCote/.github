@@ -7,7 +7,7 @@
         <td align="center"><a href="https://github.com/"><b>김누리</b></td>
         <td align="center"><a href="https://github.com/"><b>김나은</b></td>
         <td align="center"><a href="https://github.com/KangBaekGwa"><b>강성욱</b></td>
-        <td align="center"><a href="https://github.com/"><b>이상억</b></td>
+        <td align="center"><a href="https://github.com/leesangeok"><b>이상억</b></td>
     </tr>
     <tr>
       <td align="center">
